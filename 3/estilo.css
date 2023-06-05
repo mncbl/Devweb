@@ -1,0 +1,25 @@
+@media screen and (max-width: 320px) {
+    div {
+        background-color: blueviolet;
+    }
+}
+@media screen and (min-width: 410px) {
+    div {
+        background-color: olivedrab;
+    }
+}
+@media screen and (min-width: 768px) {
+    div {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    div {
+        background-color: bisque;
+        border: solid black 1px;
+        border-radius: 5px;
+        margin-block: 1em;
+        padding-left: 0.5em;
+    }
+}

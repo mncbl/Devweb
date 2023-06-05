@@ -1,0 +1,13 @@
+* vant versionamento de codigo - tem no slide 
+-
+*Explique a diferença do git e github 
+-github site que roda o git (servido centralizado) ja o git sistema de versionamento
+* quais as 3 principais linguagens utilizadas na contrução de doc web
+-js
+& implementar funcionalidade na pagina
+-html
+& contruir estrutura de docs
+-css
+&para estilizar 
+*TAG ELEMENTO ATRIBUTO
+
